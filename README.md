@@ -30,7 +30,7 @@ pkg update ; pkg upgrade ; pkg install python ; pkg install python2 ; pip2 insta
 ```
 • TOOL USER : (No Need)</br>
 • TOOL PASS : (No Need)</br>
- [![Facebook](https://img.shields.io/badge/Facebook-AZIM-blue?style=flat-square&logo=facebook)](https://www.facebook.com/100022097600640)</br>
+</br>
 <b>Access Token Generator Apk</b><br>
  <a href="https://play.google.com/store/apps/details?id=com.proit.thaison.getaccesstokenfacebook">DOWNLOAD</a>
 
